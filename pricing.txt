@@ -1,0 +1,13 @@
+pricing.txt
+Created Tue Oct 15 09:31:22 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Pricing
+
+
+Links
+=====
+Pricing details by storage class
+Need to investigate
+https://cloud.google.com/storage/pricing-summary/
