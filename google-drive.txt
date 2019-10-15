@@ -1,0 +1,62 @@
+google-drive.txt
+Created Tue Oct 15 09:10:11 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Google Drive: Free Cloud Storage for Personal Use
+
+
+A safe place for all your files
+
+o Store, share, and access your files from any device.
+  Your first 15 GB of storage are free.
+
+o With Drive Enterprise, businesses only pay for the storage 
+  employees use. It comes with Google Docs, Sheets, and 
+  Slides — and works seamlessly with Microsoft Office.
+
+o Store any file
+  Keep photos, stories, designs, drawings, recordings, videos, 
+  and more. Your first 15 GB of storage are free with a
+  Google Account.
+
+o See your stuff anywhere
+  Your files in Drive can be reached from any smartphone,
+  tablet, or computer. So wherever you go, your files follow.
+
+o Share files and folders
+  You can quickly invite others to view, download, and
+  collaborate on all the files you want–no email attachment
+  needed.
+
+o Need more than 15 GB?  Upgrade to Google One
+  https://drive.google.com/settings/storage
+
+--Google Drive
+  https://www.google.com/drive/
+
+
+Links
+=====
+Get started with Drive for free
+https://accounts.google.com/ServiceLogin?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Den_US&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F
+
+Google Drive
+https://www.google.com/drive/
+
+Google One
+No access from State of Alaska
+Need more than 15 GB?  Upgrade to Google One
+  State of Alaska
+  Official Alaska State Wensote
+  URL Blocked due to missing ISP-166 web waiver
+  Your requested URL has been blocked with rule Block PRX_PRSNLNS.
+  The URL is listed in categories that require a valid web waiver (ISP-166).
+  User: (204.29.174.35)
+  Groups: 
+  URL: https://drive.google.com/settings/storage (172.217.14.238)
+  URL Categories:Personal Network Storage (170)
+  Application Name:Google Drive
+  Reputation: Minimal Risk (-20) 
+  Geolocation: US:United States
+https://drive.google.com/settings/storage
